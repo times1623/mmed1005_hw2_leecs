@@ -1,0 +1,33 @@
+<svg id="mobileIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207.54 335.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #cccccb;
+      }
+    </style>
+  </defs>
+  <title>mobileIcon</title>
+  <rect id="frame" class="cls-1" x="0.5" y="0.5" width="206.54" height="334.64" rx="12" ry="12"/>
+  <rect id="screen" class="cls-2" x="20.11" y="22.07" width="166.67" height="128.76"/>
+  <g id="button">
+    <rect class="cls-2" x="24.38" y="180.12" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="24.38" y="224.61" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="79.51" y="180.12" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="79.51" y="224.61" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="133.65" y="180.12" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="133.65" y="224.61" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="24.38" y="269.1" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="79.51" y="269.1" width="48.37" height="33.33"/>
+    <rect class="cls-2" x="133.65" y="269.1" width="48.37" height="33.33"/>
+  </g>
+</svg>
