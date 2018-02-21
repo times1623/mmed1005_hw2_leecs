@@ -1,0 +1,20 @@
+<svg id="soundIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 431.37 312.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+      }
+    </style>
+  </defs>
+  <title>soundIcon</title>
+  <g id="upper">
+    <rect class="cls-1" y="174.36" width="58.82" height="137.91"/>
+    <rect class="cls-1" x="149.02" y="120.81" width="58.82" height="191.45"/>
+    <rect class="cls-1" x="298.04" y="113.21" width="58.82" height="199.06"/>
+  </g>
+  <g id="random">
+    <rect class="cls-1" x="74.51" y="57.8" width="58.82" height="254.47"/>
+    <rect class="cls-1" x="223.53" y="67.84" width="58.82" height="244.42"/>
+    <rect class="cls-1" x="372.55" width="58.82" height="312.27"/>
+  </g>
+</svg>

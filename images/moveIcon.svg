@@ -1,0 +1,23 @@
+<svg id="moveIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.34 19.34">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #cccccb;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>moveIcon</title>
+  <g id="arrow">
+    <polygon class="cls-1" points="9.62 0.7 5.68 4.64 13.66 4.64 9.62 0.7"/>
+    <polygon class="cls-1" points="9.72 18.64 13.66 14.7 5.68 14.7 9.72 18.64"/>
+    <polygon class="cls-1" points="0.7 9.72 4.64 13.66 4.64 5.68 0.7 9.72"/>
+    <polygon class="cls-1" points="18.64 9.62 14.7 5.68 14.7 13.66 18.64 9.62"/>
+  </g>
+  <circle id="circle" class="cls-2" cx="9.67" cy="9.67" r="3.37"/>
+</svg>

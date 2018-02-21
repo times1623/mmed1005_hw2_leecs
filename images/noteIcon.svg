@@ -1,0 +1,27 @@
+<svg id="noteIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.96 178.97">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cccccb;
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #cccccb;
+      }
+    </style>
+  </defs>
+  <title>noteIcon</title>
+  <rect id="pad" class="cls-1" x="17.62" y="0.5" width="163.84" height="177.97"/>
+  <g id="rims">
+    <rect class="cls-2" x="0.5" y="23.58" width="44.07" height="22.03"/>
+    <rect class="cls-2" x="0.5" y="60.19" width="44.07" height="22.03"/>
+    <rect class="cls-2" x="0.5" y="96.8" width="44.07" height="22.03"/>
+    <rect class="cls-2" x="0.5" y="133.4" width="44.07" height="22.03"/>
+  </g>
+</svg>
